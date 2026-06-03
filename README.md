@@ -23,7 +23,7 @@ decisions.
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/srinivasadasugari/)
-- 🌐 [Portfolio](https://kaushikdatta.azurewebsites.net/)
+- 🌐 [Portfolio](https://yellow-grass-0bf67c000.7.azurestaticapps.net/)
 - 📧 [Email](mailto:kaushikdasugari@gmail.com)
 - 📍 Hyderabad, India (Open to remote US opportunities)
 
