@@ -5,6 +5,8 @@
 Currently architecting/developing solutions at **PennyMac** (Top 5 US Mortgage Lender)  
 Previously shipped production code in Dallas, Texas → Now working from Hyderabad, India
 
+[![AWS Certified](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/3b384b1c-8b44-46c1-84a7-1fe11e3f044d/public_url)
+
 ---
 
 ## 🚀 What I Do
@@ -37,7 +39,6 @@ decisions.
 
 **💡 Open to:** Remote opportunities • Fintech consulting • Open source collaboration
 
-*Building in public. Currently working on HTTP Header security Nuget - launching soon.*
 <!--
 **kaushikdasugari/kaushikdasugari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
