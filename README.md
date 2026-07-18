@@ -5,7 +5,8 @@
 Currently architecting/developing solutions at **PennyMac** (Top 5 US Mortgage Lender)  
 Previously shipped production code in Dallas, Texas → Now working from Hyderabad, India
 
-[![AWS Certified](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/3b384b1c-8b44-46c1-84a7-1fe11e3f044d/public_url)
+[![AWS Certified](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/3b384b1c-8b44-46c1-84a7-1fe11e3f044d/public_url) 
+[![AWS Certified](https://images.credly.com/size/110x110/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png)](https://www.credly.com/badges/046d6ce0-cb96-450f-b36b-27d4025e0589/public_url)
 
 ---
 
